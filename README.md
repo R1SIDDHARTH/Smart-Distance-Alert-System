@@ -43,12 +43,12 @@ This project demonstrates the use of two ESP32 boards for seamless communication
 
 ## 📊 System Architecture
 
-### Overview Diagram
-![System Architecture](https://example.com/system-architecture.png)
-
 1. **Sender ESP32**:
    - Reads distance data from the ultrasonic sensor.
    - Transmits data via ESP-NOW.
+
+2. **Communication**:
+   - ESP-NOW protocol for wireless data transfer between the sender and receiver.
 
 2. **Receiver ESP32**:
    - Receives distance data.
