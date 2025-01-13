@@ -119,10 +119,7 @@ Ensure you have the ESP32 board library installed in your Arduino IDE. Add requi
 ## 📊 Visuals
 
 ### 📷 Hardware Setup
-![Hardware Setup](https://example.com/hardware-setup.png)
-
-### 📊 Blynk Dashboard
-![Blynk Dashboard](https://example.com/blynk-dashboard.png)
+![Screenshot 2025-01-13 153753](https://github.com/user-attachments/assets/72297640-3e51-4acf-934c-1e92f456caf2)
 
 ---
 
