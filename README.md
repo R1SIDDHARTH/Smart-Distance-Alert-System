@@ -3,6 +3,9 @@
 ## 📊 Overview
 This project demonstrates the use of two ESP32 boards for seamless communication using **ESP-NOW** protocol. The first ESP32 (Sender) collects data from an ultrasonic sensor, and the second ESP32 (Receiver) processes the data. The Receiver controls an LED based on the received data and optionally visualizes the data on the **Blynk IoT Cloud**.
 
+- ESP32 (1) [Sender]: Connected to an ultrasonic sensor (HC-SR04) for distance measurement.
+- ESP32 (2) [Receiver]: Connected to Wi-Fi and capable of visualizing data using Blynk IoT Cloud.
+
 ---
 
 ## 🌟 Features
