@@ -1,6 +1,3 @@
-//char ssid[] = "DESKTOP-RSS";
-//char pass[] = "F7q8$3mV5N";
-
 #include <esp_now.h>
 #include <WiFi.h>
 
